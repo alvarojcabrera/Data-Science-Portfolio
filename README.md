@@ -6,5 +6,5 @@
 - [Cancer Prediction Model](https://github.com/alvarojcabrera/Cancer-Risk-Classification)
 
 - ## 🤖 GEN AI
-- [gAItan - Colombia RAG]((https://github.com/alvarojcabrera/rag_colombia))
+- [gAItan - Colombia RAG](https://github.com/alvarojcabrera/rag_colombia)
   
